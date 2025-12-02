@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         links: {
             github: 'https://github.com/JhonatanNav6',
             linkedin: 'https://www.linkedin.com/in/jhonatan-fabrizio-navarro-lopez-46783839a/',
-            portfolio: 'portafolio/index.html',
+            portfolio: 'https://jhonatannav6.github.io/portafolio',
             email: 'mailito:U23215314@utp.edu.pe',
             cv: 'documents/cv.pdf',
             instagram: 'https://instagram.com/jhonatan_nav'
